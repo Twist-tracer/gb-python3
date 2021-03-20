@@ -1,7 +1,7 @@
 # По введенным пользователем координатам двух точек вывести уравнение прямой вида y = kx + b, проходящей через эти
 # точки.
 
-# диаграмма ->  https://app.diagrams.net/#G1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC
+# диаграмма -> https://drive.google.com/file/d/1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC/view?usp=sharing
 
 if __name__ == '__main__':
     x1 = float(input('x1: '))

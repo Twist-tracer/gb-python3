@@ -1,6 +1,6 @@
 # Пользователь вводит две буквы. Определить, на каких местах алфавита они стоят, и сколько между ними находится букв.
 
-# диаграмма ->  https://app.diagrams.net/#G1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC
+# диаграмма -> https://drive.google.com/file/d/1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC/view?usp=sharing
 
 if __name__ == '__main__':
     first = input('Введите 1 букву: ')

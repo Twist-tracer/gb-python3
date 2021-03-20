@@ -1,6 +1,6 @@
 # Пользователь вводит номер буквы в алфавите. Определить, какая это буква.
 
-# диаграмма ->  https://app.diagrams.net/#G1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC
+# диаграмма -> https://drive.google.com/file/d/1humLnGoPjOVVo-ST4AwdSl2Bs7UiBcMC/view?usp=sharing
 
 if __name__ == '__main__':
     num = int(input('Номер буквы в алфавите (1-26): '))
